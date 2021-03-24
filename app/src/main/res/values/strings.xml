@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lista Dinamica Heroes</string>
+    <string name="heroeTitle">Heroe</string>
+    <string name="alterEgoTitle">Alter Ego</string>
+    <string name="title">Lista de Heroes</string>
+    <string name="spFirstTime">spFirstTime</string>
+    <string name="dialog_register">Registro</string>
+    <string name="confirm_Dialog">Registrar</string>
+    <string name="spUserName">spUserName</string>
+    <string name="userDefault">Anonimo</string>
+</resources>
